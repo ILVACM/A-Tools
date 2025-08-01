@@ -5,3 +5,31 @@
 ventoy
     (https://www.ventoy.net/cn/index.html)
     (https://github.com/ventoy/Ventoy)
+
+
+--------------------------------
+AI
+--------------------------------
+
+YOLO
+    (https://www.ultralytics.com/)
+    (https://github.com/ultralytics)
+
+
+--------------------------------
+数据标注处理平台
+--------------------------------
+
+CVAT
+    (https://github.com/cvat-ai/cvat)
+    (https://www.cvat.ai/)
+
+Roboflow
+    (https://roboflow.com/)
+
+MakeSense
+    (https://www.makesense.ai/)
+    (https://github.com/SkalskiP/make-sense)
+
+Ultralytics HUB
+    (https://hub.ultralytics.com/home)
