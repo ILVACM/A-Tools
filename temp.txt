@@ -33,3 +33,17 @@ MakeSense
 
 Ultralytics HUB
     (https://hub.ultralytics.com/home)
+
+
+--------------------------------
+文件传输
+--------------------------------
+
+# 局域网
+
+LocalSend
+    (https://localsend.org/zh-CN)
+    (https://github.com/localsend/localsend)
+
+# 广域网 - P2P(WebRTC)
+
